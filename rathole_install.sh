@@ -165,7 +165,6 @@ EOF
     echo -e "Version: ${YELLOW}v1.3.2${GREEN}"
     echo -e "Developer: ${YELLOW}amirjs${GREEN}"
     echo -e "Github: ${YELLOW}github.com/amirjs/Rathole-Tunnel${GREEN}"
-    echo -e "Telegram Channel: ${YELLOW}@Gozar_Xray${NC}"
 }
 
 
